@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+	Cosmin Muntean @blabla.bla @blabla
 
 # THANKS
 
